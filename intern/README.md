@@ -9,5 +9,5 @@
 7. GQA(CONT.)
 
 ## code
-1. usage and result of these codes are in comment.
-2. you can use conda to import appriopriate enviroment from \intern_codes\env\env.yml
+1. Usage and result of these codes are in comment.
+2. You can use conda to import appropriate enviroment from \intern_codes\env\env.yml
